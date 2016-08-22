@@ -1,0 +1,28 @@
+name: TrialByFire
+favicon: null
+layout_spectrum: 0.40842509968206286
+typography_spectrum: 0.8863121047616005
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2232829132117331
+  lightness: 0.01577861816622317
+  saturation: 0.5313444677740335
+  rhythmicContrast: 0.09253841079771519
+purpose: []
